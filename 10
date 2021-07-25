@@ -1,0 +1,11 @@
+/*10.1*/
+p {
+	color: rgb(201, 26, 26);
+	width: 300px;
+}
+
+/*10.2*/
+td {
+	width: 400px;
+	height: 300px;
+}

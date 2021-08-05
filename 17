@@ -1,0 +1,29 @@
+/*17.1*/
+p {
+	line-height: 20px;
+}
+
+p {
+	font: 13px "Times New Roman";
+}
+
+/*17.2*/
+p {
+	width: 300px;
+	color: red;
+	
+}
+
+p {
+	font: bold 40px Arial;
+}
+
+/*17.3*/
+
+p {
+	text-indent: 50px;
+}
+
+p {
+	font: italic bold 40px/60px Arial;
+}

@@ -1,0 +1,13 @@
+/*26.1*/
+.odd {
+	color: red;
+}
+
+.eve {
+	color: green;
+}
+
+/*26.2*/
+.eee {
+	color: red;	
+}

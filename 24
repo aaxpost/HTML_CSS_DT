@@ -1,0 +1,12 @@
+/*24.1*/
+ul i {
+	color: red;
+}
+p i {
+	color: green;
+}
+
+/*24.2*/
+p b i {
+	color: red;
+}

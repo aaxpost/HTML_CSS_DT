@@ -1,0 +1,21 @@
+/*28.1*/
+.aaa {
+	color: red;
+}
+
+.bbb {
+	color: green;
+}
+
+.ccc {
+	color: blue;
+}
+
+/*28.2*/
+.aaa1 {
+	color: red;
+}
+
+.bbb2 {
+	color: green;
+}
